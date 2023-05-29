@@ -10,3 +10,4 @@
 - [Chapter 3. 람다 표현식](https://jinwonyoon.notion.site/Chapter-3-da8a2c37559c4e379ca17d28d0dd50d3)
 - [Chapter 4. 스트림 소개](https://jinwonyoon.notion.site/Chapter-4-3d9c1995409c44f69deae9ad904533b5)
 - [Chapter 5. 스트림 활용](https://jinwonyoon.notion.site/Chapter-5-e6ebe733f36a4bd89b7407faee364dfb)
+- [Chapter 7. 병렬 데이터 처리와 성능](https://jinwonyoon.notion.site/Chapter-7-9b816ed51a5649298c34b6c76064a0fb)
